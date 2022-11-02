@@ -1,0 +1,6 @@
+[submodule "extensions/aesthetic-gradients"]
+	path = extensions/aesthetic-gradients
+	url = https://github.com/AUTOMATIC1111/stable-diffusion-webui-aesthetic-gradients
+[submodule "extensions/images-browser"]
+	path = extensions/images-browser
+	url = https://github.com/yfszzx/stable-diffusion-webui-images-browser
